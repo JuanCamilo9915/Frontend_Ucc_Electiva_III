@@ -1,0 +1,45 @@
+ramadev05 
+ECHO est  activado.
+ECHO est  activado.
+ALLUSERSPROFILE=C:\ProgramData
+ANDROID_HOME=C:\Users\JuanCamiloDev\AppData\Local\Android\Sdk
+APPDATA=C:\Users\JuanCamiloDev\AppData\Roaming
+ChocolateyInstall=C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate=132576591775886847
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-O0VSARR
+ComSpec=C:\Windows\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+HOMEPATH=\Users\JuanCamiloDev
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_281
+LOCALAPPDATA=C:\Users\JuanCamiloDev\AppData\Local
+LOGONSERVER=\\DESKTOP-O0VSARR
+NUMBER_OF_PROCESSORS=8
+OneDrive=C:\Users\JuanCamiloDev\OneDrive
+OS=Windows_NT
+Path=C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\JuanCamiloDev\AppData\Local\Android\Sdk\platform-tools;C:\Users\JuanCamiloDev\AppData\Local\Microsoft\WindowsApps;;C:\Users\JuanCamiloDev\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\JuanCamiloDev\AppData\Roaming\npm
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=9e0a
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TEMP=C:\Users\JUANCA~1\AppData\Local\Temp
+TMP=C:\Users\JUANCA~1\AppData\Local\Temp
+USERDOMAIN=DESKTOP-O0VSARR
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-O0VSARR
+USERNAME=JuanCamiloDev
+USERPROFILE=C:\Users\JuanCamiloDev
+windir=C:\Windows
