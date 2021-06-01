@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Composición</title>
+</head>
+<style>
+    *{
+        margin: 0%;
+        padding: 0%;
+    }
+    header{
+        background-color: cadetblue;
+    }
+    nav{
+        width: 100%;
+        height: 30px;
+        text-align: center;
+        background-color: tomato;
+    }
+    .barco{
+        width: 70px;
+    }
+    .flex-c{
+        display: flex;
+        flex-wrap: nowrap;
+
+    }
+    @keyframes animacion {
+        0% {background-color: blanchedalmond; left: 70%; top: 10%;}
+        25% {background-color: blanchedalmond; left: 70%; top: 10%;}
+        50% {background-color: blanchedalmond; left: 70%; top: 10%;}
+        75% {background-color: blanchedalmond; left: 70%; top: 10%;}
+        100% {background-color: blanchedalmond; left: 70%; top: 10%;}
+    }
+    footer{
+        width: 100%;
+        height: 50px;
+        position: absolute;
+        bottom: 0%;
+        text-align: center;
+        background-color: cadetblue;
+    }
+</style>
+<body>
+    <header>
+        <img class="barco" src="resources/barco.svg" alt="barco">
+    </header>
+    <nav>
+        <p>Navegación</p>
+    </nav>
+    <div class="flex-c">
+        <div>::</div>
+    </div>
+    <footer>
+        <div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+    </footer>
+</body>
+</html>
